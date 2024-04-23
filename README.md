@@ -8,3 +8,5 @@ Here is a picture of what the UI looks like!
 ![image](https://github.com/emac3399son/emac3399son.github.io/assets/123843274/58101f4f-4095-4258-a35c-2711187ee56e)
 
 Pretty cool huh?
+
+Sadly it won't work, BUT I'm learning C# & C++ and I might be able to make it work without the need of APIs!
