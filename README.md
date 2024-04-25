@@ -10,3 +10,5 @@ Here is a picture of what the UI looks like!
 Pretty cool huh?
 
 Sadly it won't work, BUT I'm learning C# & C++ and I might be able to make it work without the need of APIs!
+
+### might work with NetflixCE or Chaos V3....
